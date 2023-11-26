@@ -12,9 +12,7 @@ O NASM é um dos assemblers mais populares e amplamente usados, conhecido por su
 
 ## Estrutura do Repositório 📂
 
-- 📁 **Exercicios-Basicos:** Contém exercícios introdutórios e fundamentais para construir uma base sólida em Assembly.
-- 📁 **Exercicios-Intermediarios:** Explore desafios mais complexos que expandem seu conhecimento em Assembly.
-- 📁 **Exercicios-Avancados:** Desafie-se com exercícios avançados para aprimorar suas habilidades na linguagem.
+- 📁 **Exercicios:** Contém exercícios introdutórios e fundamentais para construir uma base sólida em Assembly.
 
 ## Como Contribuir 🤝
 
@@ -22,6 +20,6 @@ Se você é apaixonado por Assembly e gostaria de contribuir com mais exercício
 
 ## Dúvidas e Feedback 📬
 
-Se tiver alguma dúvida ou sugestão, abra uma "issue". Estou aqui para ajudar e tornar este repositório uma referência útil para todos os estudantes de Assembly!
+Se tiver alguma dúvida ou sugestão, abra uma "issue".
 
 Divirta-se codificando em Assembly! 👨‍💻✨
