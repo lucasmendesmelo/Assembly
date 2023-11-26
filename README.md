@@ -14,10 +14,6 @@ O NASM é um dos assemblers mais populares e amplamente usados, conhecido por su
 
 - 📁 **Exercicios:** Contém exercícios introdutórios e fundamentais para construir uma base sólida em Assembly.
 
-## Como Contribuir 🤝
-
-Se você é apaixonado por Assembly e gostaria de contribuir com mais exercícios, exemplos ou melhorias, sinta-se à vontade para fazer um fork e enviar suas sugestões por meio de pull requests. Juntos, podemos criar um recurso valioso para a comunidade de desenvolvedores!
-
 ## Dúvidas e Feedback 📬
 
 Se tiver alguma dúvida ou sugestão, abra uma "issue".
